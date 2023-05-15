@@ -8,8 +8,8 @@ const Comments = () => {
             <div className="flex gap-28 max-md:gap-0 relative">
                 <h1 className="font-medium text-6xl w-[592px] max-md:w-full">See What People<br/> Are <span className="text-[#1FC77E] landing-[63px]"> Saying About Us</span></h1>
                 <span className="relative">
-                    <img src="../../public/small-star.svg" alt="" className="w-20 max-md:absolute  max-md:-top-5  max-md:-left-20"/>
-                    <img src="../../public/big-star.svg" alt="" className="md:absolute  left-20 max-md:left-0 -bottom-[68px] max-md:bottom-0 w-20  max-md:pt-10"/>
+                    <img src="/small-star.svg" alt="" className="w-20 max-md:absolute  max-md:-top-5  max-md:-left-20"/>
+                    <img src="/big-star.svg" alt="" className="md:absolute  left-20 max-md:left-0 -bottom-[68px] max-md:bottom-0 w-20  max-md:pt-10"/>
                 </span>
             </div>
             <div>
@@ -20,7 +20,7 @@ const Comments = () => {
                             <p className="w-[340px] font-sans font-medium text-base leading-6 mb-4">OmniGPT has completely<br/> transformed the way my team works together.</p>
                             <p className="font-sans font-normal text-[13px] leading-5 w-[431px] text-slate-200 mb-5">“With the ability to seamlessly communicate across<br/> multiple channels, we are able to collaborate in real-time and make<br/> decisions faster than ever. Plus, the AI-powered chatbot saves us time<br/> and resources by handling routine tasks and inquiries. I would highly<br/> recommend OmniGPT to any organization looking to improve their<br/> productivity and efficiency”</p>
                             <span className="flex w-full gap-4 items-center">
-                                <img src="../../public/Ellipse 98.png" alt="" />
+                                <img src="/Ellipse 98.png" alt="" />
                                 <p className="font-sans font-medium text-[13px]">Luke John</p>
                             </span>
                         </span>
@@ -31,7 +31,7 @@ const Comments = () => {
                             <p className="w-[340px] font-sans font-medium text-base leading-6 mb-4">OmniGPT has completely<br/> transformed the way my team works together.</p>
                             <p className="font-sans font-normal text-[13px] leading-5 w-[431px] text-slate-200 mb-5">“I was skeptical about using an AI-powered chat tool, but Omnigpt has completely changed my mind. It's like having a virtual assistant that's always available to manage my conversations and keep me organized. I don't know how I managed without it!”</p>
                             <span className="flex w-full gap-4 items-center">
-                                <img src="../../public/Ellipse 99.png" alt="" />
+                                <img src="/Ellipse 99.png" alt="" />
                                 <p className="font-sans font-medium text-[13px]">Luke John</p>
                             </span>
                         </span>

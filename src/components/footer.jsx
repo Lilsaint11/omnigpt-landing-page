@@ -33,7 +33,7 @@ const Footer = () => {
                     <p className="font-medium">Join our newsletter</p>
                     <span className="relative flex border-[1px] border-white rounded-[10px] px-5">
                         <input type="email" placeholder="Your Email" className="font-normal w-[205px] h-[49px] bg-transparent z-10 outline-none" />
-                        <img src="../../public/send.svg" alt="" className="ml-2" />
+                        <img src="/send.svg" alt="" className="ml-2" />
                     </span>
                 </div>
             </div>

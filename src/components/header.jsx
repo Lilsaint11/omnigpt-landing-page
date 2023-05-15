@@ -13,7 +13,7 @@ const Header = () => {
                     <li>Contact Us</li>
                     <li>Sign In</li>
                 </ul>
-                <img src="../../public/burgermenu.svg" alt="" className="md:hidden" />
+                <img src="/burgermenu.svg" alt="" className="md:hidden" />
             </div>
          </div>
      );

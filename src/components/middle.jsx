@@ -2,14 +2,14 @@ const Middle = () => {
     return ( 
         <div className="flex gap-[200px] max-md:gap-[119px] mb-52  max-md:flex-col-reverse max-md:items-center">
            <div className="left relative w-[321px]">
-                <img src="../../public/apple-iphone-14-pro-max-2022-medium 1.png" alt="" className="absolute -top-4 -left-[3px] z-30 w-[321px] h-[655px]"/>
-                <img src="../../public/Rectangle 13053.png" alt="" className="relative z-20 w-[315px] h-[622px]" />
+                <img src="/apple-iphone-14-pro-max-2022-medium 1.png" alt="" className="absolute -top-4 -left-[1px] z-30 w-[321px] h-[655px]"/>
+                <img src="/Rectangle 13053.png" alt="" className="relative z-20 w-[310px] h-[622px]" />
 
                 <span className="bg-white h-[119px] w-[119px] rounded-full flex items-center justify-center absolute top-[57px] -left-20 z-40">
-                    <img src="../../public/Facebook_Messenger_logo_2020 1.png" alt="" className=" "/>
+                    <img src="/Facebook_Messenger_logo_2020 1.png" alt="" className=" "/>
                 </span>
                 <span className="bg-white h-[147px] w-[147px] rounded-full flex items-center justify-center  absolute bottom-[57px] left-56 z-40">
-                    <img src="../../public/WhatsApp 1.png" alt="" className=""/>
+                    <img src="/WhatsApp 1.png" alt="" className=""/>
                 </span>
                 <span className="bg-[#FEEA00] h-[107px] w-[107px] rounded-tl-[58px] rounded-tr-[58px] rounded-bl-0 rounded-br-[58px] absolute top-[145px] left-[245px]  max-md:left-[270px] z-10"></span>
                 <span className="bg-[#1FC77E] h-[107px] w-[107px] rounded-tl-[58px] rounded-tr-[58px] rounded-bl-0 rounded-br-[58px] absolute bottom-[144px] -left-16 z-10"></span>
@@ -23,7 +23,7 @@ const Middle = () => {
                     </div>
                  
                     <span className=" bg-[#1FC77E] w-[71px] h-[71px] max-md:w-[95px] max-md:h-[95px] rounded-[9px] flex items-center justify-center">
-                        <img src="../../public/collaboration 1.png" alt="" />
+                        <img src="/collaboration 1.png" alt="" />
                     </span>
                     
                 </div>
